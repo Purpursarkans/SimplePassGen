@@ -8,7 +8,7 @@
 > Enter num of symbols on password: 12
 
 Выберите, хотите ли вы использовать символы в пароле, например 1
-Enter use special characters in the password:
+> Enter use special characters in the password:  
 > 1 - yes  
 > 2 - no  
 >\>\> 1
