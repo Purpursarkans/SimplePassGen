@@ -12,7 +12,6 @@ int main()
     int sizeSymbols = symbols.size();
     int sizeNums = nums.size();
 
-
     std::cout << "Enter num of symbols on password: ";
     int numSymb;
     std::cin >> numSymb;
@@ -52,6 +51,5 @@ int main()
         }
         std::cout << std::endl;
     }
-
     pause();
 }
